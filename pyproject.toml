@@ -17,7 +17,8 @@ dependencies = [
     "pandas",
     "scikit-learn>=1.7.2",
     "scikit-surprise>=1.1.4",
-    "torch>=2.8.0"
+    "statsmodels>=0.14.5",
+    "torch>=2.8.0",
 ]
 
 [tool.uv]
