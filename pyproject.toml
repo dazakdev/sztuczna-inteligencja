@@ -14,11 +14,13 @@ dependencies = [
     "lightgbm",
     "matplotlib",
     "numpy",
+    "opencv-python>=4.11.0.86",
     "pandas",
     "scikit-learn>=1.7.2",
     "scikit-surprise>=1.1.4",
     "statsmodels>=0.14.5",
     "torch>=2.8.0",
+    "torchvision>=0.23.0",
 ]
 
 [tool.uv]
