@@ -11,6 +11,7 @@ dependencies = [
     "jupyter",
     "jupyterlab-execute-time",
     "jupytext",
+    "kagglehub>=0.3.13",
     "lightgbm",
     "matplotlib",
     "numpy",
